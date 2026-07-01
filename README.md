@@ -23,7 +23,7 @@ A modern and responsive HVAC service website built using **React**, **Vite**, an
 ## Tech Stack
 
 - React.js
-- Vite
+- Javascript
 - Tailwind CSS
 - React Icons
 
